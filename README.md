@@ -10,11 +10,11 @@ React and Tailwind
 
 ### Screenshot
 
-![Web capture_26-12-2023_3340_localhost](Web_capture_26-12-2023_3340_localhost)
+![Screenshot](Screenshot.png)
 
 ### Links
 
-- Live Site URL: [https://fengboris-todo.netlify.app](https://fengboris-todo.netlify.app)
+- Live Site URL: [https://feng-todo.netlify.app](https://feng-todo.netlify.app)
 
 ### Built with
  
